@@ -1,6 +1,4 @@
-import org.springframework.web.bind.annotation.*;
-import java.util.HashMap;
-import java.util.Map;
+package com.example.demo;git add .
 
 @RestController
 @RequestMapping("/api/bank")
